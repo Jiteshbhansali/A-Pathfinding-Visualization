@@ -1,0 +1,2 @@
+# Astar-Pathfinding-Visualization
+This A* Path Finding visualization will show you how to implement the a* search algorithm using pygame in python. I have build a pathfinding visualizer tool to visualize a star pathfinding algorithm as it runs. This astar pathfinding algorithm is an informed search algorithm which means it is much more efficient than standard algorithms like breadth first search or depth first search.
