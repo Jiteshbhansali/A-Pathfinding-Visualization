@@ -3,4 +3,4 @@ This A* Path Finding visualization will show you how to implement the a* search 
 
 Here Different colors have different meaning:
 
-Orange represents start node, Light Blue represents goal node, the node that has been considered is represented by red color, Black color represents as barrier which is given by user and final Path is represnted by Purple color
+Orange represents start node, Light Blue represents goal node, the node that has been considered is represented by red color, Black color represents as barrier which is given by user and final Path is represented by Purple color
